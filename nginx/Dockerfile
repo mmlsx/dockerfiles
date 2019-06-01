@@ -1,5 +1,5 @@
 FROM ccr.ccs.tencentyun.com/qcloud/centos
-MAINTAINER mmlsx 896889398@qq.com
+MAINTAINER 896889398@qq.com
 
 RUN yum install -y pcre-devel wget net-tools gcc zlib zlib-devel make openssl-devel
 
